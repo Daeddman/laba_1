@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Лаба1", "Лаба1\Лаба1.csproj", "{FCD347A2-6BED-4A9D-B3E0-8B514F3FE8B2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Лаба_1_блок_2", "Лаба_1_блок_2\Лаба_1_блок_2.csproj", "{9763BA79-C0BD-4285-8C29-F04BB9064B10}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Тести", "Тести\Тести.csproj", "{42EEB187-AB94-4EC3-BF07-C1AE642BE926}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCD347A2-6BED-4A9D-B3E0-8B514F3FE8B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCD347A2-6BED-4A9D-B3E0-8B514F3FE8B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCD347A2-6BED-4A9D-B3E0-8B514F3FE8B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCD347A2-6BED-4A9D-B3E0-8B514F3FE8B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9763BA79-C0BD-4285-8C29-F04BB9064B10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9763BA79-C0BD-4285-8C29-F04BB9064B10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9763BA79-C0BD-4285-8C29-F04BB9064B10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9763BA79-C0BD-4285-8C29-F04BB9064B10}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42EEB187-AB94-4EC3-BF07-C1AE642BE926}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42EEB187-AB94-4EC3-BF07-C1AE642BE926}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42EEB187-AB94-4EC3-BF07-C1AE642BE926}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42EEB187-AB94-4EC3-BF07-C1AE642BE926}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
